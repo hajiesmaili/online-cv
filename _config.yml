@@ -16,7 +16,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Mohammad Hajiesmaili
-tagline: Full Stack Developer
+tagline: Postdoctoral Researcher
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
